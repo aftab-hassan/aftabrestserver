@@ -28,6 +28,5 @@
     "targetUrl": "https:build/1.0.17",
     "description": "Size is within acceptable range, sizeChange:0, tolerance:2048",
     "prSize": 3996304
-},
-
+}
 ]
