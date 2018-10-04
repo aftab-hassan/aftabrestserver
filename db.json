@@ -1,32 +1,14 @@
 [
-{
-    "state": 0,
-    "targetUrl": "https:build/1.0.17",
-    "description": "Size is within acceptable range, sizeChange:0, tolerance:2048",
-    "prSize": 2976304
-},
-{
-    "state": 0,
-    "targetUrl": "https:build/1.0.17",
-    "description": "Size is within acceptable range, sizeChange:0, tolerance:2048",
-    "prSize": 2996324
-},
-{
-    "state": 0,
-    "targetUrl": "https:build/1.0.17",
-    "description": "Size is within acceptable range, sizeChange:0, tolerance:2048",
-    "prSize": 2996304
-},
-{
-    "state": 0,
-    "targetUrl": "https:build/1.0.17",
-    "description": "Size is within acceptable range, sizeChange:0, tolerance:2048",
-    "prSize": 2993214
-},
-{
-    "state": 0,
-    "targetUrl": "https:build/1.0.17",
-    "description": "Size is within acceptable range, sizeChange:0, tolerance:2048",
-    "prSize": 3996304
-}
+  {
+    "id": 1,
+    "title": "Post 1"
+  },
+  {
+    "id": 2,
+    "title": "Post 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
+  }
 ]
