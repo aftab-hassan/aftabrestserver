@@ -1,36 +1,14 @@
-{
-  "posts": [
-    {
-    "state": 0,
-    "targetUrl": "https://ci.appveyor.com/project/aftab-hassan/office-ui-fabric-react-cov67/build/1.0.17",
-    "description": "Size is within acceptable range, sizeChange:0, tolerance:2048",
-    "context": "SizeAuditor",
-    "id": "b8a48712-3040-443d-b64d-59f83a44b477",
-    "commitDate": "10/3/2018 12:00:00 AM",
-    "repoName": "office-ui-fabric-react",
-    "prSize": 2996304,
-    "baselineCommitSize": 2996304,
-    "_rid": "3hwvALv03F4EAAAAAAAAAA==",
-    "_self": "dbs/3hwvAA==/colls/3hwvALv03F4=/docs/3hwvALv03F4EAAAAAAAAAA==/",
-    "_etag": "\"00000000-0000-0000-5b7d-849ded6401d4\"",
-    "_attachments": "attachments/",
-    "_ts": 1538614775
-},
-{
-    "state": 0,
-    "targetUrl": "https://ci.appveyor.com/project/aftab-hassan/office-ui-fabric-react-cov67/build/1.0.17",
-    "description": "Size is within acceptable range, sizeChange:0, tolerance:2048",
-    "context": "SizeAuditor",
-    "id": "b8a48712-3040-443d-b64d-59f83a44b477",
-    "commitDate": "10/3/2018 12:00:00 AM",
-    "repoName": "office-ui-fabric-react",
-    "prSize": 2991304,
-    "baselineCommitSize": 2996304,
-    "_rid": "3hwvALv03F4EAAAAAAAAAA==",
-    "_self": "dbs/3hwvAA==/colls/3hwvALv03F4=/docs/3hwvALv03F4EAAAAAAAAAA==/",
-    "_etag": "\"00000000-0000-0000-5b7d-849ded6401d4\"",
-    "_attachments": "attachments/",
-    "_ts": 1538614775
-}
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "Post 1"
+  },
+  {
+    "id": 2,
+    "title": "Post 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
+  }
+]
